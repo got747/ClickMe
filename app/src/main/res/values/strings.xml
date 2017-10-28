@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Click me</string>
+    <string name="start">start</string>
+    <string name="tap_me">tap</string>
+    <string name="test"><u>00:00</u></string>
+    <string name="restart">restart</string>
+    <string name="default_Points">00</string>
+</resources>
